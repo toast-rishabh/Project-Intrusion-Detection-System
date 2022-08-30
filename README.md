@@ -7,3 +7,4 @@ Now, I have written a set of codes and taken KDD-cup99 because we can not create
 Now applying attacks on the data set and checking through ML algorithms which one is doing what.
 I have checked various ML algorithms and got the conclusion that the decision tree algorithm is giving me the best accuracy.
 I have uploaded the pics and after implementing mostly you will get same figures. It may change beacuse every system has unique processor and runtime.
+
